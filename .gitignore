@@ -329,4 +329,5 @@ $RECYCLE.BIN/
 upbit.txt
 token.txt
 criptoTrade_Test.py
+venv/
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode,pycharm
